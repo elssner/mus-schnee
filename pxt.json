@@ -2,8 +2,7 @@
     "name": "mus-schnee",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
